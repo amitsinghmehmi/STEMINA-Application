@@ -1,2 +1,2 @@
 # STEMINA-Application
-An Application For The Running Community
+**STEMINA.py**: An application for the running community written entirley in python. Utilizes a graphical user interface.
